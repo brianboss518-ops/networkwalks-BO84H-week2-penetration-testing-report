@@ -73,7 +73,7 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 👤 Author
 Bosire Brian Nyambane
-Cybersecurity Professional B082
+Cybersecurity Professional B084H
 LinkedIn:  https://lnkd.in/p/dD4QRewU
 ________________________________________
 📌 Project Information
